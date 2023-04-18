@@ -8,6 +8,6 @@
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
 </p>
 
-![](https://activity-graph.herokuapp.com/graph?username=1553690132&theme=github)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1553690132&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wangzirui32&show_icons=true&theme=dark&count_private=true)
