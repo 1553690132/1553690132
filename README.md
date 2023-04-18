@@ -6,7 +6,7 @@
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!;Like%20Vue.&font=Roboto&color=5eba86" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!;Enjoy%20Life.&font=Roboto&color=5eba86" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1553690132&layout=compact&theme=vue)](https://github.com/1553690132) &nbsp;&nbsp;
