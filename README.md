@@ -12,4 +12,4 @@
 <br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1553690132&theme=vue)](https://github.com/1553690132)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1553690132)](https://github.com/1553690132)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=1553690132&repo=HNUClassroomPlatform)](https://github.com/1553690132)
