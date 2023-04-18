@@ -2,6 +2,7 @@
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=yellow"/>
+<a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=NewBlog&message=blog&color=orange"/></a>
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
 </p>
 
