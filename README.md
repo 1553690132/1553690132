@@ -1,5 +1,4 @@
-# Hi 🎉 Welcome to LWH's Github Homepage!
-<p>
+<p> # Hi 🎉 Welcome to LWH's Github Homepage!
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=yellow"/>
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
