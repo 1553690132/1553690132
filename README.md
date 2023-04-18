@@ -8,5 +8,6 @@
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1553690132)](https://github.com/1553690132)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1553690132&show_icons=true&theme=vue)](https://github.com/1553690132)
+<br/>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=1553690132&theme=vue)](https://github.com/1553690132)
