@@ -4,8 +4,8 @@
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
+  <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=yellow"/>
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/1553690132&right_color=red" />
 </p>
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzirui32&theme=dark&layout=compact)
