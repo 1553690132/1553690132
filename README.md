@@ -2,11 +2,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!;Like%20Vue.&font=Roboto&color=5eba86" />
 
-<p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=yellow"/>
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1553690132&layout=compact&theme=vue)](https://github.com/1553690132) &nbsp;&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1553690132&show_icons=true&theme=vue&hide=stars)](https://github.com/1553690132) 
