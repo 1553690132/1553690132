@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
   <img src="https://img.shields.io/static/v1?label=Program&message=JavaScript&color=yellow"/>
 <a href="https://www.cnblogs.com/LWHCoding/"><img src="https://img.shields.io/static/v1?label=Blog&message=cnblogs&color=blue"/></a>
+  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1553690132&layout=compact&theme=vue)](https://github.com/1553690132)
 </p>
 
