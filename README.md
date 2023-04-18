@@ -1,6 +1,6 @@
 # Hi 🎉 Welcome to LWH's Github Homepage!
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!&font=Roboto" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!;Like%20Vue.&font=Roboto" />
 
 <p>
 <img src="https://img.shields.io/static/v1?label=Program&message=Vue&color=brightgreen"/>
