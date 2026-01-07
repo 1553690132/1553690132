@@ -9,7 +9,4 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,%20visitor!;Hello%20Github%20World!;Enjoy%20Life.&font=Roboto&color=5eba86" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1553690132&layout=compact&theme=vue)](https://github.com/1553690132) &nbsp;&nbsp;
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1553690132&show_icons=true&hide=stars&theme=vue)
 <br/><br/>
